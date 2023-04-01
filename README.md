@@ -3,28 +3,22 @@
 
 
 
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/52799665/228670425-440ab75a-077b-4343-bbb4-c9bc9eb8383e.png" alt="Logo" width="80" height="80">
+    <img src="https://user-images.githubusercontent.com/52799665/229299526-e9dc84d2-9b0c-4a19-915e-d27db850093f.png" alt="Logo" width="120" height="120">
 
-  <h3 align="center">tariqmassaoudi.com</h3>
+  <h3 align="center">Kmeans Visualization</h3>
 
 
   <p align="center">
-   A minimalist modern portfolio website. Built with Gatsby and Tailwind, it integrates a blog for sharing your ideas. Perfect for showcasing your work 💻 online.
-    <br />
-    <a href="https://www.tariqmassaoudi.com">Live Website</a>
-    .
-    <a href="https://github.com/tariqmassaoudi/tariqmassaoudi.com/issues">Request Feature</a>
+   Implementing and visualizing basic K means algorithm using p5.js
   </p>
-
+   <video src="https://user-images.githubusercontent.com/52799665/229299652-8ee06719-41c9-4b05-97f3-9afd80dacb47.mp4"></video>
 </div>
-<div><p align="center">
 
-<img  src="https://user-images.githubusercontent.com/52799665/228841668-b07bd326-cb6f-44da-a6bd-fd92df2b0cb2.png" width="600" height="400">
-</p>
-    </div>
+
 
 
 <!-- TABLE OF CONTENTS -->
@@ -47,16 +41,9 @@
 ### Getting Started
 1. Clone this repo
 ```
-git clone https://github.com/tariqmassaoudi/tariqmassaoudi.com
+git clone https://github.com/tariqmassaoudi/KmeansVisualization
 ```
-2. Run these commands in the root of cloned repo
-```
-npm i
-gatsby develop
-
-```
-3. Navigate to http://localhost:8000
-4. Modify the code and the site will recompile automatically ! 
+2. Open index.html in a web browser
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -79,17 +66,10 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- LICENSE -->
 ## License
-
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- CONTACT -->
 ## Contact
 
